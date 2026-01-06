@@ -1,0 +1,30 @@
+
+Prompt:
+neon surreal abstract painting of a floating city in the clouds, cinematic lighting, sharp details, 4k digital art
+
+Target style description:
+dreamlike glowing cyberpunk artwork with neon colors and soft lighting
+
+Images per round:
+3
+
+Test Case 2 (fantasy art)
+Prompt:
+fantasy painting of a dragon curled around an ancient castle, epic, moody, ultra detailed
+
+Target style:
+dark fantasy illustration concept art, dramatic lighting, painterly style
+
+Samples:
+4
+
+Test Case 3 (vibe chaos)
+Prompt:
+a cat wearing a spacesuit floating through a galaxy of rainbow donuts
+
+Target style:
+cute pastel dreamy illustration
+
+Samples:
+3
+
